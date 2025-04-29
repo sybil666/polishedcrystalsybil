@@ -10,9 +10,9 @@ NPCTrades:
 	rawchar "Mike@@@@", $00
 ; NPC_TRADE_KYLE in Violet City
 	db TRADE_DIALOGSET_COLLECTOR
-	dp POLIWAG, NO_FORM ; wants
-	dp VULPIX, FEMALE    ; gives
-	rawchar "arabella@@@@@@"
+	dp CYNDAQUIL, NO_FORM ; wants
+	dp DRATINI, FEMALE    ; gives
+	rawchar "lotus@@@@@@"
 	db $EE, $EE, $EE, HIDDEN_ABILITY | NAT_SPE_UP_DEF_DOWN,   PREMIER_BALL, PERSIM_BERRY
 	dw 48926
 	rawchar "Kyle@@@@", $00
