@@ -48,10 +48,10 @@
 	wildmon 7, BELLSPROUT
 	; nite
 	wildmon 4, RATTATA
-	wildmon 5, RATTATA
-	wildmon 6, GASTLY
-	wildmon 4, BELLSPROUT
-	wildmon 7, GASTLY
+	wildmon 5, MISDREAVUS
+	wildmon 6, MISDREAVUS
+	wildmon 4, MISDREAVUS
+	wildmon 7, MISDREAVUS
 	wildmon 6, BELLSPROUT
 	wildmon 7, BELLSPROUT
 	end_grass_wildmons
