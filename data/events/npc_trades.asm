@@ -13,7 +13,7 @@ NPCTrades:
 	dp CYNDAQUIL, NO_FORM ; wants
 	dp DRATINI, FEMALE    ; gives
 	rawchar "lotus@@@@@@"
-	db $EE, $EE, $EE, HIDDEN_ABILITY | NAT_SPE_UP_DEF_DOWN,   PREMIER_BALL, PERSIM_BERRY
+	db $EE, $EE, $EE, HIDDEN_ABILITY | NAT_SPE_UP_DEF_DOWN,   MOON_BALL,    EVIOLITE
 	dw 48926
 	rawchar "Kyle@@@@", $00
 ; NPC_TRADE_TIM in Olivine City
